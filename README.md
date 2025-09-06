@@ -1,9 +1,4 @@
-## I'm Hamza Zaidi, a Computer Engineering student @ UWaterloo
+- Interested broadly in efficient ML Systems: compilers, kernels and AI HW/SW co-design
+- Studying CompE @ UWaterloo
 
-I enjoy a wide variety of topics, but I'm currently interested in:
-- Machine Learning Systems and Performance
-- Distributed Systems and Databases
-- GPU architecture
-- Backend and Infrastructure
-
-Talk to me about CUDA (or anything else!) at `hamza[dot]zaidi[at]uwaterloo[dot]ca`
+Looking for internships for Summer 2026! Reach me at `hamza[dot]zaidi[at]uwaterloo[dot]ca`
